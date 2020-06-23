@@ -1,0 +1,27 @@
+---
+title: "color_test_markdown"
+author: "Tyler"
+date: "6/23/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is just a test file.  
+
+```{r test}
+## This code just shows the color features.
+## There is no technical use.
+
+library(ggplot2)
+
+centre <- function(x, type, ...) {
+  switch(type,
+         mean = mean(x),
+         trimmed = mean(x, trim = .1))
+}
+```
