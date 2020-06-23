@@ -29,9 +29,9 @@ This theme is based on colors from the Calathea genus.  It features dark green b
 <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/screenshot_markdown.PNG" title="screenshot_rmarkdown"  width="500">
 </p>
 
-The theme can be directly imported after downloading the [`.rstheme`](https://github.com/WilliamTylerBradley/Calathea/main/utilizations/Calathea.rstheme) file for RStudio &lt 2.1.
+The theme can be directly imported after downloading the [`.rstheme`](https://github.com/WilliamTylerBradley/Calathea/blob/main/utilizations/Calathea.rstheme) file for RStudio &lt 2.1.
 
-See [RStudio IDE Custom Theme Support](https://blog.rstudio.com/2018/10/29/rstudio-ide-custom-theme-support/) for a pictorial step-by-step, or [Creating Custom Themes for RStudio](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html#sharing-a-theme) if you want to learn more.
+See [RStudio IDE Custom Theme Support](https://blog.rstudio.com/2018/10/29/rstudio-ide-custom-theme-support/) for a pictorial step-by-step, or [Creating Custom Themes for RStudio](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html#sharing-a-theme) to learn more.
 
 To download and apply the theme to RStudio, run the following code in RStudio:
 ```r
@@ -42,7 +42,7 @@ rstudioapi::addTheme("https://raw.githubusercontent.com/WilliamTylerBradley/Cala
 
 ---
 
-The foreground color have at least a 4.5:1 contrast with all the background colors.  The contrasts.R file calculates these values.
+The foreground colors have at least a 4.5:1 contrast with all the background colors.  The contrasts.R file calculates these values.
 
 | Feature           | Color  | Background Contrast | Selection Contrast | Chunk Contrast |
 | :---              | :---   |                ---: |               ---: |           ---: |
