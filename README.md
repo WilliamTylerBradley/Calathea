@@ -42,7 +42,7 @@ rstudioapi::addTheme("https://raw.githubusercontent.com/WilliamTylerBradley/Cala
 
 ---
 
-The foreground color have at least a 4.5:1 contrast with all the background colors.
+The foreground color have at least a 4.5:1 contrast with all the background colors.  The contrasts.R file calculates these values.
 
 | Feature           | Color  | Background Contrast | Selection Contrast | Chunk Contrast |
 | :---              | :---   |                ---: |               ---: |           ---: |
@@ -55,11 +55,9 @@ The foreground color have at least a 4.5:1 contrast with all the background colo
 
 The appearance for the color scheme under a few color blindness settings.
 
-<p align="center">
 | Full Color | Deuteranopia | Monochromacy |
 | :---:| :---: | :---: |
 | <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/color_test_raw.PNG" width="200" title="color_test_raw"> | <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/color_test_deuteranopia.png" width="200" title="color_test_deuteranopia"> | <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/color_test_monochromacy.png" width="200" title="color_test_monochromacy"> |
-</p>
 
 ---
 
