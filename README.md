@@ -3,11 +3,9 @@ An elegant theme for growth and flow.
 
 ---
 
-<center>
-<img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/icon.png" width="100" height="100" title="icon">
-<img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/icon_highlight.png" width="100" height="100" title="icon_highlight">
-<img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/icon_chunk.png" width="100" height="100" title="icon_chunk">
-</center>
+<p float="middle">
+<img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/icon.png" width="100" height="100" title="icon"> <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/icon_highlight.png" width="100" height="100" title="icon_highlight"> <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/icon_chunk.png" width="100" height="100" title="icon_chunk">
+</p>
 
 ---
 
@@ -17,6 +15,15 @@ This theme is based on colors from the Calathea genus.  It features dark green b
 
 <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/screenshot.PNG" title="screenshot">
 
+### Calathea Theme Code Close-up
+
+<img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/screenshot_code.PNG" title="screenshot">
+
+### Calathea Theme RMarkdown Close-up
+
+<img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/screenshot_markdown.PNG" title="screenshot">
+
+
 The theme can be directly imported after downloading the [`.rstheme`](https://github.com/WilliamTylerBradley/Calathea/main/utilizations/Calathea.rstheme) file for RStudio &lt 2.1.
 
 See [RStudio IDE Custom Theme Support](https://blog.rstudio.com/2018/10/29/rstudio-ide-custom-theme-support/) for a pictorial step-by-step, or [Creating Custom Themes for RStudio](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html#sharing-a-theme) if you want to learn more.
@@ -25,7 +32,7 @@ To download and apply the theme to RStudio, run the following code in RStudio:
 ```r
 rstudioapi::addTheme("https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/utilizations/Calathea.rstheme", apply = TRUE)
 ```
-(Shout out to @batpigandme's [night-owlish theme](https://github.com/batpigandme/night-owlish) for information on this section.)
+(Shout out to [@batpigandme](https://github.com/batpigandme)'s [night-owlish theme](https://github.com/batpigandme/night-owlish) for information on this section.)
  
 
 ---
@@ -43,11 +50,11 @@ The foreground color have at least a 4.5:1 contrast with all the background colo
 
 The appearance for the color scheme under a few color blindness settings.
 
-<center>
+
 | Full Color | Deuteranopia | Monochromacy |
 | :---:| :---: | :---: |
 | <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/color_test_raw.PNG" width="200" title="color_test_raw"> | <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/color_test_deuteranopia.png" width="200" title="color_test_deuteranopia"> | <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/color_test_monochromacy.png" width="200" title="color_test_monochromacy"> |
-</center>
+
 
 ---
 
