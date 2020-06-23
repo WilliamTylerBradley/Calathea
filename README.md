@@ -3,7 +3,7 @@ An elegant theme for growth and flow.
 
 ---
 
-<p float="middle">
+<p align="center">
 <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/icon.png" width="100" height="100" title="icon"> <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/icon_highlight.png" width="100" height="100" title="icon_highlight"> <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/icon_chunk.png" width="100" height="100" title="icon_chunk">
 </p>
 
@@ -13,16 +13,21 @@ This theme is based on colors from the Calathea genus.  It features dark green b
 
 ### Calathea Theme in RStudio
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/screenshot.PNG" title="screenshot">
+</p>
 
 ### Calathea Theme Code Close-up
 
-<img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/screenshot_code.PNG" title="screenshot">
+<p align="center">
+<img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/screenshot_code.PNG" title="screenshot_code"  width="500">
+</p>
 
 ### Calathea Theme RMarkdown Close-up
 
-<img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/screenshot_markdown.PNG" title="screenshot">
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/screenshot_markdown.PNG" title="screenshot_rmarkdown"  width="500">
+</p>
 
 The theme can be directly imported after downloading the [`.rstheme`](https://github.com/WilliamTylerBradley/Calathea/main/utilizations/Calathea.rstheme) file for RStudio &lt 2.1.
 
@@ -50,11 +55,11 @@ The foreground color have at least a 4.5:1 contrast with all the background colo
 
 The appearance for the color scheme under a few color blindness settings.
 
-
+<p align="center">
 | Full Color | Deuteranopia | Monochromacy |
 | :---:| :---: | :---: |
 | <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/color_test_raw.PNG" width="200" title="color_test_raw"> | <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/color_test_deuteranopia.png" width="200" title="color_test_deuteranopia"> | <img src="https://raw.githubusercontent.com/WilliamTylerBradley/Calathea/main/images/color_test_monochromacy.png" width="200" title="color_test_monochromacy"> |
-
+</p>
 
 ---
 
