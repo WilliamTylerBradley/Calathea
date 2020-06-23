@@ -1,0 +1,31 @@
+.codeblock {
+ background: #263121
+}
+
+.codeblock {
+color: #FCFFFB
+}
+
+.codeblock .comment {
+color: #C29CB7
+}
+
+.codeblock .literal {
+color: #FFDFE5
+}
+
+.codeblock .keyword {
+color: #85B258
+}
+
+.codeblock .number {
+color: #CAD3C1
+}
+
+.codeblock .string {
+color: #E9F5B9
+}
+
+.codeblock .meta {
+color: #FFDFE5
+}

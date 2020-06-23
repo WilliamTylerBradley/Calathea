@@ -1,0 +1,13 @@
+﻿Feature,Hexo,Highlight,tmTheme,rstheme manual edit,Color Name,HEXCOL
+Background,.codeblock { background: HEXCOL},.hljs{background: HEXCOL },background,,Dark Green,#263121
+Code,.codeblock {color: HEXCOL},.hljs{color: HEXCOL },foreground,,White,#FCFFFB
+Comment,.codeblock .comment {color: HEXCOL},.hljs-number{background: HEXCOL },comment,,Purple,#C29CB7
+Keyword Contants,.codeblock .literal {color: HEXCOL},.hljs-literal{background: HEXCOL },constant,,Pink,#FFDFE5
+Keyword Functions,.codeblock .keyword {color: HEXCOL},.hljs-keyword{background: HEXCOL },keyword,,Green,#85B258
+Number,.codeblock .number {color: HEXCOL},.hljs-string{background: HEXCOL },constant.numeric,,Dull,#CAD3C1
+String,.codeblock .string {color: HEXCOL},.hljs-comment{background: HEXCOL },string,,Yellow,#E9F5B9
+Python Meta,.codeblock .meta {color: HEXCOL},.hljs-meta{background: HEXCOL },,,Pink,#FFDFE5
+Keyword Operator,,,keyword.operator,,White,#FCFFFB
+Selection,,,selection,,Lighter Dark Green,#353E31
+Highlight,,,lineHighlight,,Lighter Dark Green,#353E31
+R Markdown Chunk,,,,.ace_marker-layer .ace_foreign_line {background-color: HEXCOL},Darker Dark Green,#1E271A
