@@ -9,7 +9,7 @@ An elegant theme for growth and flow.
 
 ---
 
-This theme is based on colors from the Calathea genus.  It features dark green backgrounds with lighter green, pink, and purple foregrounds.  The Calathea.csv shows the color scheme features, Hexo.js/Highlight.js code options, tmTheme with a rsTheme manual edit for R markdown documents, the color names, and finally the HEX code colors.  A few utilizations can be found in the utilizations folder, including a rstheme for RStudio and Hexo css for blogdown. The rstheme comes from the tmTheme with the manual edit from the Calathea.csv file.  The calathea_hexo.css file pulls from the Calathea.csv and created by create_css_files.R.
+This theme is based on colors from the Calathea genus.  It features dark green backgrounds with lighter green, pink, and purple foregrounds.  The Calathea.csv shows the color scheme features, Hexo.io/highlight.js code options, tmTheme with a rsTheme manual edit for R markdown documents, the color names, and finally the HEX code colors.  A few utilizations can be found in the utilizations folder, including a rstheme for RStudio and Hexo css for blogdown. The rstheme comes from the tmTheme with the manual edit from the Calathea.csv file.  The calathea_hexo.css file pulled information from Calathea.csv and created by create_css_files.R.
 
 ### Calathea Theme in RStudio
 
